@@ -262,9 +262,9 @@ p{
 }
 
 @media (max-width: 914px){
-    *{
-        /*background-color: red;*/
-    }
+    /*{
+        /*background-color: red;
+    }*/
     .devpic{
         display: none;
     }

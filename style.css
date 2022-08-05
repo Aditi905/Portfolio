@@ -99,7 +99,7 @@
     margin: 12px 0;
 }
 
-.btn:hover{
+.btn a:hover{
     background-color: white;
     color: dodgerblue;
 }

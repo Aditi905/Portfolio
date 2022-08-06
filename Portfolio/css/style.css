@@ -99,7 +99,8 @@ body {
   color: #fff;
 }*/
 .social{
-  margin-left: 499px;
+  /*margin-left: 499px;*/
+  text-align: center;
 }
 
 .skill {

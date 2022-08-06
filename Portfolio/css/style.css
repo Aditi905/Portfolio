@@ -88,7 +88,7 @@ body {
   color: #fff;
 }
 
-.social {
+/*.social {
   background: linear-gradient(
     90deg,
     rgb(5 11 63) 0%,
@@ -97,6 +97,9 @@ body {
     rgb(16 68 134) 100%
   );
   color: #fff;
+}*/
+.social{
+  margin-left: 499px;
 }
 
 .skill {
@@ -414,12 +417,13 @@ body {
 }
 
 .btn{
-  font-size: 60px;
-  margin-left: 60px;
-  margin-right: -30px;
-  padding: 0px 0px 0px 105px;
+  color: #fff;
+  padding: 15px 20px;
+  margin-top: 20px;
+  font-size: xx-large;
 }
 
+
 .btn:hover{
-  color: #fff;
+  color: rgb(46, 37, 37);
 }
